@@ -14,3 +14,7 @@ The website offers a vibrant, visually engaging layout that captures the dynamic
 preview : 
 
 
+
+![anime1](https://github.com/user-attachments/assets/0323c4ba-c5cf-4155-86e8-e00d2df24ff5)
+![anime2](https://github.com/user-attachments/assets/84a17e85-423d-4685-b30f-0fc126928380)
+![anime3](https://github.com/user-attachments/assets/6bb101f6-394a-483c-b0d8-4aee26aa2d1d)
